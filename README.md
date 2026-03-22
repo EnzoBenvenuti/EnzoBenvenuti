@@ -2,7 +2,7 @@
 - Sou um estudante de desenvolvimento de sistemas 🖥
 - Estou cursando o ultimo ano do ensino médio 📙
 - Fiz 2 anos de Inglês 🌎
-- Contato: Dinhobenvenuti@gmail.com 
+- Contato: EnzoBenvenuti0701@gmail.com
 
 ## Tecnologia que estudo 📖
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
